@@ -1,4 +1,6 @@
 # Hola! te doy la bienvenida a mi perfil de Git-hub 
+## Quien soy??
+Mi nombre es Tomás Tonaltsintle Acevedo Sandoval soy licenciado en biologia egresado de la FES Iztacala UNAM 
 ## 1 Perfil
 Soy estudiante de Maestria en Ciencias Biologicas de la UNAM de segundo semestre. Me encuentro en el laboratorio de Genomica Funcional de Leguminosas el cual se encuentra en la Faculatad de Estudios Superiores Iztacala. 
 El título de mi trabajo es "Caracterizacion de la region promotora del gen PvPHR1 de Phaseolus vulgaris durante la simbiosis leguminosa-rhizobio en condiciones de deficiencia de fosfato" 
