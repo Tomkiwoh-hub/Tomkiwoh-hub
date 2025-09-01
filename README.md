@@ -13,8 +13,10 @@ El gen PHR1 es un factor de transcripcion central durante la respuesta a deficie
 
 ## 4 Programación para potenciar el estudio 
 La programación es una herramienta indispensable para el analisis de los datos cientificos. Durante el proceso de desarrollo de este trabajo se obtendran una gran cantidad de datos los cuales pretenden ser analizados mediante distintas plataformas incluidas R
+<img width="2048" height="1462" alt="60752161_366769783955320_6324255162000998400_n" src="https://github.com/user-attachments/assets/6e8661b8-7f25-4fc4-9a80-ffe83ae9a23c" />
 ### 4.1 Aprendiendo a programar
 Durante el presente curso estoy aprendiendo a programar para poder cumplir el objetivo de generar distintos scripts que me ayuden a analizar y ordenar mis datos. Algunos ejemplos en los que se requerira esta herramienta: Durante el analisis de promotores se encuentra ante el problema de identificar secuenias cortas especificas pero con diversas degeneraciones (cambios en las bases nitrogenadas) los cuales son cruciales para hacer un analis del contenido del promotor del gen y en distintos analis se necesita contar con una comparacion entre distintos promotores por lo cual se necesita manegar una gran cantidad de datos los cuales deben de ser correctamente ordenados para el correcto analisis. En ambos caso el manejo de R facilitaria este trabajo.
+<img width="1367" height="610" alt="8b083e37fb8eeaf6e2cdaf3ca7524d8a60992f04" src="https://github.com/user-attachments/assets/48b4ac2e-7488-464e-84c4-a4e5adb8a666" />
 ### 4.2 Prespectivas
 Poder entender el lenguaje de R para poder desarrollar scrips que me permitan avanzar en mi proyecto 
 
