@@ -4,13 +4,13 @@ Soy estudiante de Maestria en Ciencias Biologicas de la UNAM de segundo semestre
 El título de mi trabajo es "Caracterizacion de la region promotora del gen PvPHR1 de Phaseolus vulgaris durante la simbiosis leguminosa-rhizobio en condiciones de deficiencia de fosfato" 
 ![306939491_542487901016004_2884258348136199020_n](https://github.com/user-attachments/assets/e9f1eb9b-744a-4066-895b-c822f7d183f1)
 
-
 ## 2 Laboratorio Genomica Funcional de leguminosas
 El equipo de trabajo que conforma mi laboratorio se ha sentrado durante  10 años a aspectos moleculares y morfologicos de leguminosas durante las diferentes etapas del establecimiento de la simbiosis con las bacterias rhizobio. Principalmente se han centrado los estudios en las distintas etapas de desarrollo morfologico que se presentan en leguminos que establecen nodulos determinados e indeterminados. Tambien se ha desarrollado enfoques novedosos sobre los genes implicados en la via de simbiosis comun entre todas las plantas que sirve para la simbiosis con micorrizas con la deficiencia de diferentes nutrientes, principalmente el fosforo. 
 
 ## 3 Importancia del estudio "Caracterización de la region promotora del gen PvPHR1 de Phaseolus vulgaris durante la simbiosis leguminosa rhizobio en condiciones de deficiencia de fosfato"
 El gen PHR1 es un factor de transcripcion central durante la respuesta a deficiencia de fosforo. Dentro del clado viridiplantae, PHR1 se ha conservado ya que es indispensable durante condiciones de estres ante la falta de fosforo ya que se encarga de regular la expresion de bombas y transportadores de fosforo, que permiten aumentar la absorcion de fosforo del suelo y transportarlo hasta los distintos organos de la planta. Durante la simbiosis leguminosa-rhizobio se forma un organo especializado en la raices de las leguminosas en donde se alberga a los rhizobios huespedes, este organo especializado implica una inversion energetica muy grande para la planta pero lo compenza ya que le proporciona la posibilidad de fijar nitrogeno atmosferico. En el suelo estos dos macronutrientes, el fosforo y el nitrogeno, son los que limitan el crecimiento de las plantas. Por lo tanto el poder comprender como la deficiencia de fosforo afecta el establecimiento de la simbiosis leguminosa-rhizobio que le permite a la planta precisamente obtene nitrogeno, otro macronutriente limitante, nos ayudara a comprender con mayor profundidad la compleja red de regulacion que esta presente en las plantas.
 ![Adesmia incana Vogel (23)](https://github.com/user-attachments/assets/a6d8b9af-5613-426a-a211-eb7a352066c9)
+
 ## 4 Programación para potenciar el estudio 
 La programación es una herramienta indispensable para el analisis de los datos cientificos. Durante el proceso de desarrollo de este trabajo se obtendran una gran cantidad de datos los cuales pretenden ser analizados mediante distintas plataformas incluidas R
 ### 4.1 Aprendiendo a programar
