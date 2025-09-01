@@ -2,7 +2,8 @@
 ## 1 Perfil
 Soy estudiante de Maestria en Ciencias Biologicas de la UNAM de segundo semestre. Me encuentro en el laboratorio de Genomica Funcional de Leguminosas el cual se encuentra en la Faculatad de Estudios Superiores Iztacala. 
 El título de mi trabajo es "Caracterizacion de la region promotora del gen PvPHR1 de Phaseolus vulgaris durante la simbiosis leguminosa-rhizobio en condiciones de deficiencia de fosfato" 
-                                                   <img width="447" height="159" alt="boton-biologicas-01" src="https://github.com/user-attachments/assets/0703b466-d5ad-48af-a5f3-e7b0ecfa92d0" />
+![306939491_542487901016004_2884258348136199020_n](https://github.com/user-attachments/assets/e9f1eb9b-744a-4066-895b-c822f7d183f1)
+
 
 ## 2 Laboratorio Genomica Funcional de leguminosas
 El equipo de trabajo que conforma mi laboratorio se ha sentrado durante  10 años a aspectos moleculares y morfologicos de leguminosas durante las diferentes etapas del establecimiento de la simbiosis con las bacterias rhizobio. Principalmente se han centrado los estudios en las distintas etapas de desarrollo morfologico que se presentan en leguminos que establecen nodulos determinados e indeterminados. Tambien se ha desarrollado enfoques novedosos sobre los genes implicados en la via de simbiosis comun entre todas las plantas que sirve para la simbiosis con micorrizas con la deficiencia de diferentes nutrientes, principalmente el fosforo. 
